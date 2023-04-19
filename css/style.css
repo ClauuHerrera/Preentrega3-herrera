@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arimo:wght@500&family=Barlow+Condensed:wght@100;400&family=Delicious+Handrawn&family=Dosis:wght@700&family=Fugaz+One&family=Genos:wght@500&family=Kaushan+Script&family=Lobster+Two:ital,wght@1,700&family=Titan+One&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logog {
+  color: black;
+  font-family: "Delicious Handrawn", cursive;
+  font-size: 60px;
+}
+
+.navbar-brand {
+  background-color: indigo;
+  color: wheat;
+  font-family: "Dosis", sans-serif;
+  font-size: 40px;
+  border-radius: 10px;
+  padding: 3px, 10px;
+}
+
+body {
+  font-family: "Lobster Two", cursive;
+  background-image: url(../assets/imagen/background-imagen.jpg);
+  background-position: center;
+  background-size: cover;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.nav-item {
+  font-family: "Anton", sans-serif;
+  font-size: 25px;
+}
+
+section {
+  padding: 20px;
+}
+
+aside {
+  padding: 20px;
+}
+
+.foto1 {
+  width: 400px;
+  height: 400px;
+}
+
+.foto2 {
+  width: 400px;
+  height: 400px;
+}
+
+.foto3 {
+  width: 400px;
+  height: 400px;
+}
+
+.foto4 {
+  width: 400px;
+  height: 400px;
+}
+
+.foto5 {
+  width: 400px;
+  height: 400px;
+}
+
+.envios {
+  width: 40%;
+  height: 300px;
+  position: fixed;
+  left: 50px;
+}
+
+.enviosmapa {
+  position: relative;
+  left: 10px;
+}
+
+.foo {
+  text-align: center;
+  background-color: burlywood;
+  color: black;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.redes {
+  font-size: 50px;
+  letter-spacing: 10px;
+}
+
+footer i:hover {
+  color: chocolate;
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
